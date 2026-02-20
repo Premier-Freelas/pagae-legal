@@ -119,7 +119,7 @@ As páginas são revisadas e atualizadas regularmente para:
 ## 📞 Contato
 
 Para dúvidas sobre as políticas ou para exercer seus direitos sob a LGPD:
-- **E-mail:** odilon.garcez.moraes@gmail.com
+- **E-mail:** suportepagae@gmail.com
 - **Suporte no app:** Menu → Suporte
 
 ## 🤝 Contribuição
