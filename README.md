@@ -1,10 +1,10 @@
 # pagae-legal
 
-Repositório de páginas legais e de compliance para o aplicativo Pagae.
+Repositório de páginas legais e de compliance para o aplicativo Pagaê.
 
 ## 📖 Sobre
 
-Este projeto contém as páginas legais obrigatórias e documentos de compliance relacionados ao **Pagae** - aplicativo de gerenciamento financeiro e de contratos. Todos os documentos estão em conformidade com a legislação brasileira, incluindo a LGPD (Lei Geral de Proteção de Dados).
+Este projeto contém as páginas legais obrigatórias e documentos de compliance relacionados ao **Pagaê** - aplicativo de gerenciamento financeiro e de contratos. Todos os documentos estão em conformidade com a legislação brasileira, incluindo a LGPD (Lei Geral de Proteção de Dados).
 
 ## 🌐 Páginas Publicadas
 
@@ -47,7 +47,7 @@ Documento completo sobre tratamento de dados pessoais, incluindo:
 ### 📜 Termos de Uso
 **Localização:** `termos-de-uso/index.html`
 
-Condições de uso do aplicativo Pagae, abrangendo:
+Condições de uso do aplicativo Pagaê, abrangendo:
 - Aceitação dos termos
 - Descrição do serviço
 - Regras de uso aceitável
@@ -98,7 +98,7 @@ open privacidade/index.html
 ```
 
 ### Integração no Aplicativo
-As páginas podem ser integradas ao aplicativo Pagae de diversas formas:
+As páginas podem ser integradas ao aplicativo Pagaê de diversas formas:
 - Via WebView nativo (Android/iOS)
 - Links diretos para as páginas hospedadas no GitHub Pages
 - Incorporação do HTML em recursos do aplicativo
@@ -131,7 +131,7 @@ Para sugestões ou melhorias nas políticas legais:
 
 ## ⚖️ Licença
 
-Todos os documentos e páginas deste repositório são propriedade do Pagae. O uso destes documentos é permitido exclusivamente para os fins do aplicativo Pagae.
+Todos os documentos e páginas deste repositório são propriedade do Pagaê. O uso destes documentos é permitido exclusivamente para os fins do aplicativo Pagaê.
 
 ## 📋 Checklist de Conformidade
 
@@ -146,5 +146,5 @@ Todos os documentos e páginas deste repositório são propriedade do Pagae. O u
 
 ---
 
-**Pagae** - Gerenciamento Financeiro e de Contratos
+**Pagaê** - Gerenciamento Financeiro e de Contratos
 **Última atualização:** Fevereiro 2026
